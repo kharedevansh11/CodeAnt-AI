@@ -1,6 +1,7 @@
 # CodeAnt AI Frontend Intern Assignment
 
 ## How to Run It
+|testing VScode on ubuntu
 
 ### Clone the Repository
 
